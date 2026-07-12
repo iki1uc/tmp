@@ -1,23 +1,16 @@
-# iki1uc – ROOT
+# ROOM – TMP‑Layer
 
-## Zweck
-Dieses Repository bildet den Ursprung der gesamten Struktur.  
-Es stellt die öffentliche Identität des Systems bereit und dient  
-als Einstiegspunkt für alle Module, Achsen und Bereiche.
+ROOM ist der Technik‑Multi‑Pool des iki1uc‑Systems.  
+Er sammelt alle technischen Daten, normiert sie und stellt sie dem FIC‑Core zur Verfügung.
 
-## Identität
-- CORE: iki1uc  
-- VERSION: 1.0  
-- CODE: RAW  
-- LAGE: ROOT / Creator / NC  
-- STATUS: Online  
+## Funktionen
+- Sammeln aller Technik‑Daten (error, help, ghost, 7sinn, argumenteria, xARG)
+- Sammeln aller System‑Daten (RIZ, VU, WEI2, Orbit, HUD)
+- Normierung und Sortierung
+- Bereitstellung für FIC
 
-## Inhalt
-- index.html – öffentliche Landing‑Page  
-- ID.html – Identitätsdarstellung  
-- visual/ – Visualisierungen  
-- modules/ – Verlinkte System‑Repos  
+## Position im System
+ROOM → FIC → System
 
-## Hinweis
-Dieses Repository enthält keine Engine‑Mechanismen.  
-Es dient ausschließlich der öffentlichen Darstellung und Struktur.
+## Status
+ROOM ist aktiv und bereit für Multi‑Layer‑Datenverarbeitung.
