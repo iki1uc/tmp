@@ -1,16 +1,13 @@
-# ROOM – TMP‑Layer
+# TMP – Zentrum / Konstellation / 12e / 6D
 
-ROOM ist der Technik‑Multi‑Pool des iki1uc‑Systems.  
-Er sammelt alle technischen Daten, normiert sie und stellt sie dem FIC‑Core zur Verfügung.
+TMP ist das Zentrum des iki1uc‑Systems.
 
-## Funktionen
-- Sammeln aller Technik‑Daten (error, help, ghost, 7sinn, argumenteria, xARG)
-- Sammeln aller System‑Daten (RIZ, VU, WEI2, Orbit, HUD)
-- Normierung und Sortierung
-- Bereitstellung für FIC
+Alle Konstellationen = TMP  
+Alle Frequenzen = 12e  
+Alle Ebenen = 6D  
+Alle Sequenzen = 360°
 
-## Position im System
-ROOM → FIC → System
+TMP ist kompatibel mit:
+ROOT, ACHSE, LAGE, laTER, ORT
 
-## Status
-ROOM ist aktiv und bereit für Multi‑Layer‑Datenverarbeitung.
+TMP ist D2 der 6D‑Matrix.
